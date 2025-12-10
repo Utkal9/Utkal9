@@ -1,0 +1,25 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D profile contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: Utkal9
+
+      - name: Commit and push 3D graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "profile-3d-contrib"
+          message: "chore: update 3D contribution graph"
