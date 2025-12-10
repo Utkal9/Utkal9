@@ -118,6 +118,12 @@ No activity tracked
 
 ---
 
+## 📊 Ultra GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/github-metrics.svg"/>
+
+---
+
 ## 🧊 3D GitHub Contribution Graph
 
 <p align="center">
