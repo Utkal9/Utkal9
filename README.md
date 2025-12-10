@@ -67,10 +67,9 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkal9&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkal9&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkal9&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utkal9&theme=radical" />
 </div>
-
 ---
 
 ## 📈 Development Insights
