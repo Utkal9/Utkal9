@@ -99,7 +99,7 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake-ocean.gif" alt="snake-ocean" />
+  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake.svg" alt="snake-ocean" />
 </p>
 
 ---
