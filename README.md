@@ -102,7 +102,7 @@ I am a **B.Tech Computer Science student and aspiring Software Engineer**, passi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ I am a **B.Tech Computer Science student and aspiring Software Engineer**, passi
 ## 🧊 3D GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Utkal9/Utkal9/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
