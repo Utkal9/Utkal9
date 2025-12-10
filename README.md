@@ -124,6 +124,13 @@ No activity tracked
 
 ---
 
+## 📝 Latest Articles & Learning Logs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🧊 3D GitHub Contribution Graph
 
 <p align="center">
