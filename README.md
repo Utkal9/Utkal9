@@ -1,16 +1,182 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/banner.png" width="100%" alt="Banner"/>
 
-<!--
-**Utkal9/Utkal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Utkal Behera 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Full+Stack+MERN+Developer;DSA+%7C+Open+Source+Contributor;Internship+%26+Placement+Ready" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Software Engineer | Full Stack MERN Developer | DSA | Open Source | Internship & Placement Ready</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkal9&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Utkal9?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Utkal9?label=Stars&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Daily-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Developer-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 About Me  
+
+I am a **B.Tech Computer Science student and aspiring Software Engineer**, passionate about building **real-world scalable web applications** and mastering **Data Structures & Algorithms**.
+
+- ✅ Strong command of **DSA, OOPs, DBMS, OS, CN**
+- ✅ Build **production-grade Full Stack MERN applications**
+- ✅ Experienced in **REST APIs, Authentication, JWT, MVC Architecture**
+- ✅ Active **Open Source Contributor**
+- ✅ Preparing for **Internships & Product-Based Companies**
+
+🎯 My long-term goal is to become a **high-impact Software Engineer at a top-tier product-based company**.
+
+---
+
+## 🧠 Problem Solving & Core CS
+
+- 🔥 Daily **DSA practice**
+- 🧮 Arrays, Recursion, DP, Graphs, Trees, Greedy
+- ⚙️ Deep understanding of **OS, DBMS, CN**
+- 🏗 Strong foundation in **OOP & Design Principles**
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+
+### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/utkal59?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkal9&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkal9&layout=compact&theme=radical&hide_border=true" height="170"/>
+</div>
+
+---
+
+## 📈 Development Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkal9&theme=radical"/>
+</p>
+
+---
+
+## ⚡ GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Utkal9&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=darkhub&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🧊 3D GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Utkal9/Utkal9/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔹 **Resume Builder** | Create ATS-friendly resumes | React, Node, MongoDB |
+| 🔹 **Habit Tracker** | Track habits with streaks | MERN Stack |
+| 🔹 **LinkedIn Clone** | Social media web app | MERN, JWT |
+| 🔹 **Portfolio Website** | Personal developer portfolio | React, Tailwind |
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=resume-builder&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=habit-tracker&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=Social_Media_like_LinkedIn&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=portfolio&theme=radical" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- ✅ **Full Stack Web Development (MERN)** – Udemy  
+- ✅ **Data Structures & Algorithms** – Apna College  
+- ✅ **Operating Systems & DBMS** – Coursera  
+- ✅ **Git & GitHub** – Microsoft  
+- ✅ **Problem Solving (DSA)** – HackerRank  
+
+---
+
+## 🌍 Visitor Counter
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Utkal9.Utkal9&left_color=blue&right_color=purple" />
+</p>
+
+---
+
+## 💬 Dynamic Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/utkal-behera59/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:utkalbehera59@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/Utkal9"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+<div align="center">
+  ⭐ <b>Star my repositories if you find them useful!</b><br>
+  💡 <i>"Engineering scalable solutions for real-world problems."</i>
+</div>
