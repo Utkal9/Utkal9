@@ -91,8 +91,9 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=radical&no-bg=false&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
@@ -121,13 +122,6 @@ No activity tracked
 ## 📊 Ultra GitHub Metrics
 
 <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/github-metrics.svg"/>
-
----
-
-## 📝 Latest Articles & Learning Logs
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
