@@ -1,120 +1,110 @@
-<img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/banner.png" width="100%" alt="Banner"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=UTKAL+BEHERA;SOFTWARE+ENGINEER;FULL+STACK+MERN+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR" />
-</h1>
-
-<h3 align="center">
-  ⚡ Architecting Scalable Systems • MERN • DSA • Open Source
-</h3>
+<h1 align="center">Hi, I'm Utkal Behera 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Utkal9&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/Utkal9?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Utkal9?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Full+Stack+MERN+Developer;DSA+%7C+Open+Source+Contributor;Internship+%26+Placement+Ready" />
+</p>
+
+<h3 align="center">Software Engineer | Full Stack MERN Developer | DSA | Open Source | Internship & Placement Ready</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkal9&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Utkal9?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Utkal9?label=Stars&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Daily-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Developer-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=ENGINEERING%20PROFILE&fontSize=30&animation=twinkling" />
-</p>
+## 🚀 About Me
 
-🎓 **Computer Science Student @ LPU**  
-🚀 Building **production-grade scalable platforms**  
-💡 I **engineer systems**, not just apps.
+I am a **Computer Science Student at LPU** and an aspiring Software Engineer driven by a specific goal: **building scalable platforms that solve real-life problems in India.**
 
-- 🔭 Founder-mode on **LinkUps** – Professional Networking Platform  
-- ⚙️ **MERN + System Design + DevOps Basics**  
-- 🧠 **150+ DSA problems solved (C++ & Java)**  
-- 🌍 Building solutions for Indian scale  
-- 🎯 **Internship & Placement Ready – 2025**
+Unlike a typical developer, I focus on the intersection of **System Design, Full Stack Development, and AI**. I don't just write code; I architect solutions.
+
+- 🔭 **Current Flagship:** Building **LinkUps**, a next-gen professional networking platform designed to challenge the status quo with intelligent features.
+- 💻 **Tech Arsenal:** Expert in the **MERN Stack** (MongoDB, Express, React, Node.js) with a growing focus on **DevOps (Docker, AWS)** to deploy scalable apps.
+- 🧠 **Problem Solving:** Solved **150+ LeetCode problems** across Java & C++, constantly sharpening my logic for competitive environments.
+- 🤝 **Philosophy:** I believe in building technology that impacts the common person—from agriculture solutions to better professional connectivity.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=TECH%20ECOSYSTEM&fontSize=28&animation=fadeIn" />
-</p>
+## 🧠 Technical Depth
 
-### 🌐 Frontend  
+- 🔥 **Competitive Programming:** Active participant in university and global coding contests.
+- 🏗 **Architecture:** Implementing **Microservices & MVC** patterns in my personal projects.
+- 🤖 **Future Focus:** Integrating **AI/ML models** into full-stack applications (e.g., AI Resume Builders).
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" />
 
-### ⚙ Backend & Database  
+### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
 
-### 🚀 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=140&text=COMPETITIVE%20PROGRAMMING&fontSize=26" />
-</p>
+## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/utkal59?theme=dark&font=JetBrains+Mono&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/utkal59?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=GITHUB%20INTELLIGENCE&fontSize=26" />
-</p>
+## 📊 GitHub Performance
 
-<p align="center">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkal9&theme=radical" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utkal9&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Utkal9&theme=radical" />
+</div>
+---
+
+## 📈 Development Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkal9&theme=radical"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&text=CONSISTENCY%20ENGINE&fontSize=26" />
-</p>
+## ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Utkal9&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=120&text=ACHIEVEMENTS&fontSize=26" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=Utkal9&theme=radical"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&text=LIVE%20ACTIVITY%20FEED&fontSize=26" />
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkal9&theme=react-dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&text=CONTRIBUTION%20SNAKE&fontSize=26" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=130&text=3D%20CONTRIBUTIONS&fontSize=26" />
+  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake.svg" alt="snake-ocean" />
 </p>
+
+---
+
+## 🧊 3D GitHub Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -122,60 +112,68 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=FLAGSHIP%20PROJECTS&fontSize=26" />
-</p>
+## 🚀 Featured Projects
 
-| Project | Purpose | Tech |
-|--------|--------|------|
-| 💼 Resume Builder | ATS-Grade Resume Engine | React, Node, Mongo |
-| ✅ Habit Tracker | Discipline System | MERN |
-| 🌐 LinkedIn Clone | Social Platform | MERN + JWT |
-| 🎨 Portfolio | Personal Brand | React + Tailwind |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔹 **Resume Builder** | Create ATS-friendly resumes | React, Node, MongoDB |
+| 🔹 **Habit Tracker** | Track habits with streaks | MERN Stack |
+| 🔹 **LinkedIn Clone** | Social media web app | MERN, JWT |
+| 🔹 **Portfolio Website** | Personal developer portfolio | React, Tailwind |
 
 ---
 
+## 📌 Pinned Repositories
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=PINNED%20REPOSITORIES&fontSize=26" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=resume-builder&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=habit-tracker&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=resume-builder&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=habit-tracker&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=Social_Media_like_LinkedIn&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=portfolio&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=Social_Media_like_LinkedIn&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=portfolio&theme=radical" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=CONNECT&fontSize=26" />
-</p>
+## 📜 Certifications
+
+- ✅ **Full Stack Web Development (MERN)** – Udemy  
+- ✅ **Data Structures & Algorithms** – Apna College  
+- ✅ **Operating Systems & DBMS** – Coursera  
+- ✅ **Git & GitHub** – Microsoft  
+- ✅ **Problem Solving (DSA)** – HackerRank  
+
+---
+
+## 🌍 Visitor Counter
 
 <p align="center">
-<a href="https://www.linkedin.com/in/utkal-behera59/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:utkalbehera59@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://github.com/Utkal9">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Utkal9.Utkal9&left_color=blue&right_color=purple" />
 </p>
 
 ---
 
+## 💬 Dynamic Dev Quote
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=ENGINEERING%20REAL-WORLD%20IMPACT&fontSize=24" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/utkal-behera59/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:utkalbehera59@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/Utkal9"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
 
 <div align="center">
-
-### ⭐ Star my repositories if you find value  
-### 💡 _“Engineering scalable systems for real-world dominance.”_
-
+  ⭐ <b>Star my repositories if you find them useful!</b><br>
+  💡 <i>"Engineering scalable solutions for real-world problems."</i>
 </div>
