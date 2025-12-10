@@ -107,6 +107,13 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 ## ⏳ Live Coding Activity (Auto Updated)
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
