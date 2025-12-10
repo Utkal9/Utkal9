@@ -104,6 +104,13 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 
 ---
 
+## ⏳ Live Coding Activity (Auto Updated)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🧊 3D GitHub Contribution Graph
 
 <p align="center">
