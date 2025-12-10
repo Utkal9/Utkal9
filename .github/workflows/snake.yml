@@ -15,15 +15,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
-      - name: Generate Snake SVG
+      - name: Generate Snake Images
         uses: Platane/snk@v3
         with:
           github_user_name: Utkal9
           outputs: |
-            output/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake animation
         uses: EndBug/add-and-commit@v9
