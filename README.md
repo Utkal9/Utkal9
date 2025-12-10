@@ -22,26 +22,24 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I am a **B.Tech Computer Science student and aspiring Software Engineer**, passionate about building **real-world scalable web applications** and mastering **Data Structures & Algorithms**.
+I am a **Computer Science Student at LPU** and an aspiring Software Engineer driven by a specific goal: **building scalable platforms that solve real-life problems in India.**
 
-- ✅ Strong command of **DSA, OOPs, DBMS, OS, CN**
-- ✅ Build **production-grade Full Stack MERN applications**
-- ✅ Experienced in **REST APIs, Authentication, JWT, MVC Architecture**
-- ✅ Active **Open Source Contributor**
-- ✅ Preparing for **Internships & Product-Based Companies**
+Unlike a typical developer, I focus on the intersection of **System Design, Full Stack Development, and AI**. I don't just write code; I architect solutions.
 
-🎯 My long-term goal is to become a **high-impact Software Engineer at a top-tier product-based company**.
+- 🔭 **Current Flagship:** Building **LinkUps**, a next-gen professional networking platform designed to challenge the status quo with intelligent features.
+- 💻 **Tech Arsenal:** Expert in the **MERN Stack** (MongoDB, Express, React, Node.js) with a growing focus on **DevOps (Docker, AWS)** to deploy scalable apps.
+- 🧠 **Problem Solving:** Solved **150+ LeetCode problems** across Java & C++, constantly sharpening my logic for competitive environments.
+- 🤝 **Philosophy:** I believe in building technology that impacts the common person—from agriculture solutions to better professional connectivity.
 
 ---
 
-## 🧠 Problem Solving & Core CS
+## 🧠 Technical Depth
 
-- 🔥 Daily **DSA practice**
-- 🧮 Arrays, Recursion, DP, Graphs, Trees, Greedy
-- ⚙️ Deep understanding of **OS, DBMS, CN**
-- 🏗 Strong foundation in **OOP & Design Principles**
+- 🔥 **Competitive Programming:** Active participant in university and global coding contests.
+- 🏗 **Architecture:** Implementing **Microservices & MVC** patterns in my personal projects.
+- 🤖 **Future Focus:** Integrating **AI/ML models** into full-stack applications (e.g., AI Resume Builders).
 
 ---
 
