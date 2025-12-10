@@ -1,0 +1,17 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Blog Posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/utkal9"
+          max_post_count: 5
