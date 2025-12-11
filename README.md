@@ -43,16 +43,18 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 
 ---
 
-## 🛠 Tech Stack
+## 🐍 Contribution Snake
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake.svg" alt="snake-ocean" />
+</p>
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+---
 
-### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+## ⚡ GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Utkal9&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -70,21 +72,6 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkal9&theme=radical" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utkal9&theme=radical" />
 </div>
----
-
-## 📈 Development Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkal9&theme=radical"/>
-</p>
-
----
-
-## ⚡ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Utkal9&theme=radical"/>
-</p>
 
 ---
 
@@ -97,11 +84,16 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Utkal9/Utkal9/main/output/github-contribution-grid-snake.svg" alt="snake-ocean" />
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+
+### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
 
 ---
 
