@@ -104,9 +104,9 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 ```txt
 Total Time: 9 mins
 
-C++      6 mins          ██████████████████▒░░░░░░   73.05 %
-Python   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+C++      7 mins          ██████████████████▒░░░░░░   73.72 %
+Python   2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
