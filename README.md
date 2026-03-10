@@ -102,9 +102,9 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 8 mins
 
-No activity tracked
+JavaScript   8 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
