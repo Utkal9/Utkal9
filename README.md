@@ -102,11 +102,11 @@ Unlike a typical developer, I focus on the intersection of **System Design, Full
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 mins
+Total Time: 13 mins
 
-C++          31 mins               █████████████████████████   99.58 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++          13 mins               ████████████████████████▓   99.04 %
+JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
