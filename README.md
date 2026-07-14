@@ -315,7 +315,7 @@ Rather than building projects only for learning, I focus on developing applicati
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Utkal9&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -537,42 +537,6 @@ Java • HTML • CSS • JavaScript
 
 ---
 
-# 📌 Pinned Repositories
-
-<p align="center">
-
-<a href="https://github.com/Utkal9/linkups">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=linkups&theme=radical&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Utkal9/Utkal9">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=Utkal9&theme=radical&hide_border=true"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Utkal9/Krishi-Tech">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=Krishi-Tech&theme=radical&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Utkal9/Intelligent-CPU-Scheduler-Simulator">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkal9&repo=Intelligent-CPU-Scheduler-Simulator&theme=radical&hide_border=true"/>
-
-</a>
-
-</p>
-
----
-
 # 🏅 Certifications
 
 🏆 Full Stack Web Development
@@ -582,8 +546,6 @@ Java • HTML • CSS • JavaScript
 🏆 AWS Cloud Fundamentals
 
 🏆 Cyber Security Internship
-
-🏆 Git & GitHub
 
 🏆 Operating Systems
 
@@ -620,33 +582,23 @@ Java • HTML • CSS • JavaScript
 <p align="center">
 
 <a href="https://utkalbehera.com">
-
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-black?style=for-the-badge&logo=vercel"/>
-
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkups.utkalbehera.com">
-
-<img src="https://img.shields.io/badge/LinkUps-Live-success?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/LinkUps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Utkal9">
-
-<img src="https://img.shields.io/badge/GitHub-Utkal9-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/utkal-behera59/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Utkal_Behera-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://linkedin.com/in/utkal-behera59">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:utkalbehera59@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
