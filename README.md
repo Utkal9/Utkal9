@@ -352,13 +352,13 @@ Rather than building projects only for learning, I focus on developing applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 4 mins
+Total Time: 4 hrs 45 mins
 
-JavaScript   2 hrs 49 mins         █████████████████▒░░░░░░░   69.29 %
-HTML         39 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-JSON         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Markdown     9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-CSS          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JavaScript   2 hrs 49 mins         ███████████████░░░░░░░░░░   59.36 %
+Java         43 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+HTML         30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+JSON         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Markdown     9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
