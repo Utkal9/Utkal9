@@ -352,12 +352,10 @@ Rather than building projects only for learning, I focus on developing applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 13 mins
 
-C++          13 mins               ███████████████████░░░░░░   76.40 %
-JavaScript   3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
-CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Java         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+C++    13 mins               █████████████████████████   99.37 %
+Java   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
