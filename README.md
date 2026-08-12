@@ -354,9 +354,8 @@ Rather than building projects only for learning, I focus on developing applicati
 ```txt
 Total Time: 1 hr 28 mins
 
-Markdown   1 hr 19 mins          ██████████████████████▓░░   90.11 %
-Text       8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-C++        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown   1 hr 19 mins          ██████████████████████▓░░   90.15 %
+Text       8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
 ```
 
 <!--END_SECTION:waka-->
