@@ -352,13 +352,11 @@ Rather than building projects only for learning, I focus on developing applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 29 mins
+Total Time: 40 mins
 
-Python       40 mins               ███████████▒░░░░░░░░░░░░░   45.35 %
-JavaScript   32 mins               █████████░░░░░░░░░░░░░░░░   36.64 %
-CSS          15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-C++          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python     40 mins               ████████████████████████▓   98.80 %
+C++        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
