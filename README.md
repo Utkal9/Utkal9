@@ -352,11 +352,9 @@ Rather than building projects only for learning, I focus on developing applicati
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 mins
+Total Time: 0 secs
 
-Python     40 mins               ████████████████████████▓   98.80 %
-C++        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
