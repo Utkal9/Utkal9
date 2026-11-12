@@ -347,21 +347,6 @@ Rather than building projects only for learning, I focus on developing applicati
 
 ---
 
-# ⌛ WakaTime Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 24 mins
-
-Java   24 mins               ████████████████████████▓   99.02 %
-C++    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 # 📈 GitHub Metrics
 
 <p align="center">
